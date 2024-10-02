@@ -59,7 +59,6 @@ function App() {
 
         <button onClick={handleIncAmount}> Increment By Amount </button>
 
-        
       </div>
     
   )
